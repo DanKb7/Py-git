@@ -16,3 +16,4 @@ print("Ваш результат = ", a.Result())
 b = Ret(int(input("Введи переменную Б: ")),int(input("Введи переменную Б: ")))
 print("Ваш результат = ", b.Prioriti())
 
+# blet
